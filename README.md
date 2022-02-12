@@ -18,11 +18,10 @@ I'm <a href="https://drive.google.com/file/d/1m4HfFk-xhSRmfy7PFFbmXHE13XA-juMm/v
 - 🛴 Besides programming, I love to do skating.
 - 🕰 Competitive Programmer in C++
 
-
+<hr>
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=abhi24gupta&show_icons=true&theme=outrun&locale=en" alt="abhi24gupta" /> 
-<img align="centre"  width="48%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=abhi24gupta&v=2&langs_count=5" alt="abhi24gupta" />
-<br>
+
 <img align="left" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi24gupta&" alt="abhi24gupta" />
 <img align="centre" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi24gupta&show_icons=true&locale=en&layout=compact" alt="abhi24gupta" />
 <br>
