@@ -25,7 +25,8 @@ I'm <a href="https://drive.google.com/file/d/1m4HfFk-xhSRmfy7PFFbmXHE13XA-juMm/v
 <br>
 
 <img align="right" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi24gupta&" alt="abhi24gupta" />
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi24gupta&show_icons=true&locale=en&layout=compact" alt="abhi24gupta" />
+<br>
+<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi24gupta&show_icons=true&locale=en&layout=compact" alt="abhi24gupta" />
 <br>
 
 <hr>
