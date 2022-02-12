@@ -5,6 +5,7 @@
 
 I'm <a href="https://drive.google.com/file/d/1m4HfFk-xhSRmfy7PFFbmXHE13XA-juMm/view?usp=sharing">Abhinav Gupta</a>  😊😊, a MERN Stack Web Developer and Java Developer 💻 from India 🚀. Currently  I am final-year undergraduate in Computer Science & Engineering  from <a href ="http://iiitvadodara.ac.in/">IIIT Vadodara 🏢 .</a>
 
+<hr>
 
 **Talking about Personal Stuff:**
 
@@ -26,6 +27,7 @@ I'm <a href="https://drive.google.com/file/d/1m4HfFk-xhSRmfy7PFFbmXHE13XA-juMm/v
 <img align="centre" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi24gupta&show_icons=true&locale=en&layout=compact" alt="abhi24gupta" />
 <br>
 
+<hr>
 
 **Languages and Tools:**
 
@@ -49,6 +51,7 @@ I'm <a href="https://drive.google.com/file/d/1m4HfFk-xhSRmfy7PFFbmXHE13XA-juMm/v
 <code><img height="30" src="https://img.icons8.com/color/48/000000/intellij-idea.png"></code>
 
 
+<hr>
 
 **Familiar Environment:**
 
@@ -57,7 +60,7 @@ I'm <a href="https://drive.google.com/file/d/1m4HfFk-xhSRmfy7PFFbmXHE13XA-juMm/v
 <code><img height="30" src="https://img.icons8.com/ios-glyphs/30/000000/mac-client.png"></code>
 
 
-
+<hr>
 
 **Connect Me:**  <br />
 
