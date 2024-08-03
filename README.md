@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=abhi24gupta&style=flat-square)
 
 
-I'm <a href="https://drive.google.com/file/d/1m4HfFk-xhSRmfy7PFFbmXHE13XA-juMm/view?usp=sharing">Abhinav Gupta</a>  😊😊, a MERN Stack Web Developer and Java Developer 💻 from India 🚀. Currently  I am final-year undergraduate in Computer Science & Engineering  from <a href ="http://iiitvadodara.ac.in/">IIIT Vadodara 🏢 .</a>
+I'm <a href="https://drive.google.com/file/d/1m4HfFk-xhSRmfy7PFFbmXHE13XA-juMm/view?usp=sharing">Abhinav Gupta</a>  😊😊, a SDE Developer in Java 💻 from India 🚀. I have graduated in Computer Science & Engineering  from <a href ="http://iiitvadodara.ac.in/">IIIT Vadodara 🏢 .</a>
 
 <hr>
 
